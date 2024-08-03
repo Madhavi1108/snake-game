@@ -1,4 +1,3 @@
-Introduction to Snake Game Code
 The Snake game is a classic arcade game that has captivated players since its inception in the late 1970s. In this game, players control a snake that moves around the screen, consuming food to grow longer while avoiding collisions with the walls and itself. The game's objective is to achieve the highest possible score by consuming as much food as possible without crashing.
 
 How the Snake Game Works
